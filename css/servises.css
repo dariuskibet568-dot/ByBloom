@@ -1,0 +1,113 @@
+h1{
+text-align: center;
+font-size: 40px;
+text-decoration: underline;
+
+
+
+}
+#shipping{
+text-decoration:underline;
+color: brown;
+}
+#shipping2{
+color: aquamarine;
+text-decoration: dotted;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.paragraph1{
+font-style: italic; 
+
+}
+#premium{
+background-color: rgb(231, 165, 84);
+margin: 60px;
+border-radius: 20px;
+padding: 20px;
+
+
+}
+#premiumheader{
+   text-align: center; 
+   padding:60px;
+}
+#premium:hover{
+    background-color: beige;
+
+
+}
+#vip{
+display: flex;
+background-color: antiquewhite;
+
+
+
+}
+#dev{
+
+display: flex;
+margin: auto;
+padding: auto;
+
+
+}
+body{
+    font-style: italic;
+}
+
+
+#div1{
+background-color: rgba(38, 157, 226, 0.623);
+padding: 20px;
+margin: 20px;
+border-radius:30px ;
+box-shadow:0 0 10px black;
+
+
+
+}
+
+
+#div2{
+background-color: rgba(38, 157, 226, 0.623);
+padding: 20px;
+margin: 20px;
+border-radius: 30px;
+box-shadow: 0 0 10px black;
+
+}
+
+
+#div3{
+background-color: rgba(38, 157, 226, 0.623);
+padding: 20px;
+margin: 20px;
+border-radius: 30px;
+box-shadow: 0 0 20px rgba(97, 81, 93, 0.281);
+
+
+
+}
+
+
+.hh{
+text-align: center;
+
+
+}
+
+#div1:hover{
+background-color: rgb(33, 92, 92);
+
+
+}
+#div2:hover{
+background-color: rgb(33, 92, 92);
+}
+#div3:hover{
+    background-color: rgb(33, 92, 92);
+}
+
+
+
